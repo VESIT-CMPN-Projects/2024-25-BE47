@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "330145354620",
+    "project_id": "enviroscan-7977d",
+    "storage_bucket": "enviroscan-7977d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330145354620:android:599efabadeac7493f80af9",
+        "android_client_info": {
+          "package_name": "com.example.enviroscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330145354620-geo7ksimevsmka7lphp5ips3u3uj69sa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.enviroscan",
+            "certificate_hash": "725319a79debd974c4e1d996f7fc4ea5461e5104"
+          }
+        },
+        {
+          "client_id": "330145354620-2u69lsuhucm0nran41oric4qcea6g83c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7BAccfqRL3aIUqvU2HGX4sxdRW_hUCtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330145354620-2u69lsuhucm0nran41oric4qcea6g83c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330145354620-4od80g4jguqv91pup4lc4maaomr49faf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.enviroscan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
